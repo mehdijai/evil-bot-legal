@@ -7,7 +7,7 @@ The bot is free to use and stores only the Discord server ID, channel ID, and ro
 
 ## Legal Documents
 
-- [Privacy Policy](privacy.html)
+- [Privacy Policy](privacy-policy.html)
 - [Terms of Service](terms.html)
 
 ## Data Management
